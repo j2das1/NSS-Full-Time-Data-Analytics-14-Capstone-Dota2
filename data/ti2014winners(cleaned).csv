@@ -1,20 +1,20 @@
-,Place,Team,Prize Money
-1,1,NewBee,"$5,025,029 "
-2,2,ViCi Gaming,"$1,466,898 "
-3,3,Evil Geniuses,"$1,032,262 "
-4,4,Team DK,"$814,943 "
-5,5,LGD Gaming,"$651,955 "
-6,6,Cloud9,"$651,955 "
-7,7,Invictus Gaming,"$516,131 "
-8,8,Natus Vincere,"$516,131 "
-9,9,Titan,"$48,897 "
-10,10,Team Liquid,"$48,897 "
-11,11,Mousesports,"$38,031 "
-12,12,Alliance,"$38,031 "
-13,13,Fnatic,"$21,732 "
-14,14,Team Empire,"$21,732 "
-15,15,Na'Vi North America,$0 
-16,16,Arrow Gaming,$0 
-17,17,MVP Phoenix,$0 
-18,18,Virtus.pro,$0 
-19,19,CIS Game,$0 
+,Place,Prize Money,Team
+0,1,"$5,025,029 ",NewBee
+1,2,"$1,466,898 ",ViCi Gaming
+2,3,"$1,032,262 ",Evil Geniuses
+3,4,"$814,943 ",Team DK
+4,5,"$651,955 ",LGD Gaming
+5,6,"$651,955 ",Cloud9
+6,7,"$516,131 ",Invictus Gaming
+7,8,"$516,131 ",Natus Vincere
+8,9,"$48,897 ",Titan
+9,10,"$48,897 ",Team Liquid
+10,11,"$38,031 ",Mousesports
+11,12,"$38,031 ",Alliance
+12,13,"$21,732 ",Fnatic
+13,14,"$21,732 ",Team Empire
+14,15,$0 ,Na'Vi North America
+15,16,$0 ,Arrow Gaming
+16,17,$0 ,MVP Phoenix
+17,18,$0 ,Virtus.pro
+18,19,$0 ,CIS Game
