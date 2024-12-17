@@ -1,5 +1,4 @@
 # NSS-Full-Time-Data-Analytics-14-Capstone-Dota2
-![alt text](Dota_2_Capstone.png)
 
 # NSS DDA-14 Capstone Project
 
@@ -16,16 +15,15 @@ I have watched every International and have attended 2 of them in person.
 # Data questions
 1. The true history behind the creation of DotA(how and why it began) 
 2. How much money was made by players and teams throughout the years 
-3. As a worldwide esports game, which players participated from each country 
+3. As a worldwide esports game, how many players participated from each country 
 4. Attendance and viewing numbers for The International
 5. How much money was made by the parent company Valve 
 6. Why was there such a decline in The International prize pool 
-7. Esports Stars
 
 # Minimum Viable Product (MVP)
 The intended target will be fans of gaming specifically MOBA genre
 
-This presentation will be a 10 to 14 minute presentation via canva.
+This presentation will be a 10 to 12 minute presentation via canva.
 
 1.	What a multi-online battle arena (moba) is. Opening statement history of DotA with insights on initial creation from used mapped setting in Starcraft (Aeon of Strife), transition to DotA allstars(Warcraft) to the current version of Dota2 (stand-alone) (1:30 mins to 2 mins)
 
@@ -34,27 +32,38 @@ a.	Valve creating Dota 2 and hosting first tournament (text)
 b.	Initial Prize Pool (1 to 2 mins)
 
 3.	Winners of The International (2 mins)
-a.	Introduction to crowd funding (the compendium)
-i.	Picture examples
-ii.	What the compendium is
-iii.	Online ticket purchasing for in-game viewing (before twitch)
-b.	Total prize pool for each tournament (bar graph initial international colors)
-c.	Total prize pool for winners (bar graph color for specific tournament)
+a.	Total prize pool for winners
 
-4.	Statistics on country participation (2 mins)
-a.	How many teams participated each year (bar chart)
-b.	Total participating players representing each country (bar chart)
+4.  Runner ups of The International
+a.  Total prize pool for runner ups
 
-5.	The historical impact this specific tournament had on games/gaming careers (2 Mins)
-a.	Viewership count via online streaming (text or bar graph)
-b.	E-sports stars (dota 2) – note some prolific players who played and still maintain an online streaming following generating income (text and pictures and total earnings)
+5. Top 10 most sucessful Dota 2 Players
 
-6.	Once prominent The International has seen a decline in prize money due to a change in the policy (greed vs community inclusion) (2 mins)
-a.	Compare initial rise of the international (bar chart)
-b.	Show decline in the prize money due to no crowd funding(bar chart) 
-c.	Insights on why crowd funding declined from changes in the compendium refer to total winnings chart(text)
-d.	How much valve made roughly (Crowd funding years x 3 (estimate as valve stated it will contribute 25% to winners)
-e.	Greed vs inclusion (treasure releases not related to TI)
+6.	Statistics on country participation (2 mins)
+a.	Top 15 countries that participated in the international
+
+7.	Introduction to crowd funding (the compendium)
+a.	How the compendium functions
+
+8.  Introduction of the battle pass
+a.  How the battle pass functions
+
+9.	Total prize pool for each tournament (bar graph initial international colors)
+a	Once prominent The International has seen a decline in prize money due to a change in the policy (greed vs community inclusion) (2 mins)
+b.	Compare initial rise of the international (bar chart)
+c.	Show decline in the prize money due to no crowd funding(bar chart)
+d.	How much valve made roughly (Crowd funding years x 3 (estimate as valve stated it will contribute 25% to winners) 
+
+10.	The historical impact this specific tournament had on gaming careers (2 Mins)
+a.	The International Statistics
+i.  Viewership count via online streaming
+ii. How many people played
+iii. How many countries participated
+iiii. Total Amount Won from players
+iiiii. Amount community spent
+
+
+11. Conclusion
 
 
 # Technology Tools
