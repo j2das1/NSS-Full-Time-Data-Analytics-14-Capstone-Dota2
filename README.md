@@ -29,13 +29,13 @@ This presentation will be a 10 to 12 minute presentation via canva.
 
 1.	What a multi-online battle arena (moba) is.
 
-   a.  Opening statement history of DotA with insights on initial creation from used mapped setting in Starcraft (Aeon of Strife), transition to DotA allstars(Warcraft) to the current version of Dota2
+      a.  Opening statement history of DotA with insights on initial creation from used mapped setting in Starcraft (Aeon of Strife), transition to DotA allstars(Warcraft) to the current version of Dota2
 
 2.	Information on how and why The International started
 
-   a.	Valve creating Dota 2 and hosting first tournament
+      a.	Valve creating Dota 2 and hosting first tournament
 
-   b.	Initial Prize Pool
+      b.	Initial Prize Pool
 
 3.  Arena Locations for The International
 
@@ -43,19 +43,19 @@ This presentation will be a 10 to 12 minute presentation via canva.
 
 5.	Winners of The International
 
-   a.	Total prize pool for winners
+      a.	Total prize pool for winners
 
 6.  Runner ups of The International
 
-   a.  Total prize pool for runner ups
+    a.  Total prize pool for runner ups
 
 7. Top 10 most sucessful Dota 2 Players
 
 8.	Introduction to crowd funding (The Compendium and Battle Pass)
 
-   a.	How The Compendium and Battle Pass Function
+     a.	How The Compendium and Battle Pass Function
 
-   b.  How much The Compendium and Battle Pass cost
+    b.  How much The Compendium and Battle Pass cost
 
 9.	Total prize pool for each tournament
 
@@ -65,7 +65,7 @@ This presentation will be a 10 to 12 minute presentation via canva.
 
 12. Correlation Graph showing growth of The International Prize Pool in relation to Major Item Acquisition
 
-    a.  Full Correlation of The Compendium and Battle Pass International Variables
+      a.  Full Correlation of The Compendium and Battle Pass International Variables
 
 13.	Estimated Amount Valve made from The Compendium and Battle Pass per Year 
 
